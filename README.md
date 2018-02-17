@@ -1,16 +1,16 @@
 # liri-node-app
 Bootcamp Homework 8
 
-Author
+Author:\n
 	Jina Li
 
-Date
+Date:\n
 	February 17, 2018
 
-What the project does?
+What the project does?\n
 	Securely run node command line prompts to get tweets from user JinaYiming, get Spotify music, and get Movie information
 
-How users can get started with the project
+How users can get started with the project?\n
 	After forking, make sure to npm install
 	Also ensure you have your own Spotify and Twitter API keys and secrets. Set up your .env file like so:
 
@@ -27,6 +27,6 @@ How users can get started with the project
 	TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 
 
-Where users can get help with your project
-	Please email me at jinali.berkeley@gmail.com
+Where users can get help with your project?\n
+	Please email me at jinali.berkeley@gmail.com\n
 	Also visit https://www.npmjs.com/ for info on API packages used
