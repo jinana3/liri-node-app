@@ -230,3 +230,4 @@ else if (input[2] === 'do-what-it-says'){
 
 
 //end
+//one  thing I did not do: README.md file which I will do next time
