@@ -181,3 +181,11 @@ country: Belgium, Germany, Canada, France, USA, UK
 language: English, Mohawk
 plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+my-tweets
+---------------
+Why am I using twitter? for homework
+Fri Feb 16 20:06:44 +0000 2018
+tomi lahren disgusts me. People who say it's not the guns that kill digusts me
+Fri Feb 16 20:06:08 +0000 2018
+#YTD2
+Tue Apr 05 19:31:13 +0000 2016
