@@ -1,0 +1,183 @@
+---------------
+my-tweets
+tomi lahren disgusts me. People who say it's not the guns that kill digusts me
+Fri Feb 16 20:06:08 +0000 2018
+Why am I using twitter? for homework
+Fri Feb 16 20:06:44 +0000 2018
+#YTD2
+Tue Apr 05 19:31:13 +0000 2016
+do-what-it-says
+---------------
+spotify-this-song
+artist: Backstreet Boys
+name: I Want It That Way
+link: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+artist: Backstreet Boys
+name: I Want It That Way
+link: https://open.spotify.com/track/68y6OIiE1nDdI1MLQdJNh8
+album: The Essential Backstreet Boys
+artist: Backstreet Boys
+name: I Want It That Way
+link: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+album: Millennium
+artist: Anthem Lights
+name: I Want It That Way
+link: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+album: Covers Part IV
+artist: Manuel Costa
+name: I Want It That Way
+link: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+album: I Want It That Way
+artist: Glee Cast
+name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+link: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist: Backstreet Boys
+name: I Want It That Way
+link: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+album: 90 Sweet 90s Hits!
+artist: Landon Austin & Julia Sheer
+name: I Want It That Way
+link: https://open.spotify.com/track/1zUJq8Ap2u9MyDo0HJxVU5
+album: I Want It That Way
+artist: "Weird Al" Yankovic
+name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+link: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+album: Poodle Hat
+artist: Kyle Olthoff
+name: I Want It That Way
+link: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
+album: I Want It That Way
+artist: Steel Panther
+name: I Want It That Way
+link: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+album: I Want It That Way
+artist: "Weird Al" Yankovic
+name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+link: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+album: The Essential "Weird Al" Yankovic
+artist: Backstreet Boys
+name: I Want It That Way
+link: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+album: NOW That's What I Call 90s Pop
+artist: Backstreet Boys
+name: I Want It That Way
+link: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+album: NKOTBSB
+artist: Scott Bradlee's Postmodern Jukebox
+name: I Want It That Way
+link: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+album: Selfies on Kodachrome
+artist: Jason Chen
+name: I Want It That Way
+link: https://open.spotify.com/track/3YugF8eBqmkUDLwFvTfCVB
+album: I Want It That Way
+artist: FROIDZ
+name: I Want It That Way
+link: https://open.spotify.com/track/2mXiYb6c52iMmRbP10KUin
+album: I Want It That Way
+artist: Boyce Avenue
+name: I Want It That Way
+link: https://open.spotify.com/track/4YmJGDRo6oGhObb7MaW5om
+album: New Acoustic Sessions, Vol. 3
+artist: Dynamite Boy
+name: I Want It That Way
+link: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+album: Punk Goes Pop
+artist: Scary Pockets
+name: I Want It That Way
+link: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+album: Nu Funk
+---------------
+spotify-this-song
+artist: Shakira
+name: Hips Don't Lie
+link: https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V
+album: Oral Fixation Vol. 2
+artist: Shakira
+name: Hips Don't Lie
+link: https://open.spotify.com/track/5vdv0xsnP6WK9ZqsPxKKtJ
+album: 00s Party Mixtape
+artist: Shakira
+name: Hips Don't Lie - Bamboo - 2006 FIFA World Cup Mix
+link: https://open.spotify.com/track/0G2Y2OA5jv093bMMg3dJ80
+album: Voices From The FIFA World Cup
+artist: Shakira
+name: Hips Don't Lie - Live Version
+link: https://open.spotify.com/track/1wa0pdphTi9qtdWE1Uy71a
+album: Live From Paris
+artist: Shakira
+name: Hips Don't Lie - Live Version
+link: https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ
+album: Shakira Oral Fixation Tour (Live)
+artist: Suzan & Freek
+name: Hips Don't Lie
+link: https://open.spotify.com/track/4L1CAKXoo0ONOtj2qwLeVI
+album: Hips Don't Lie
+artist: Shakira
+name: Hips Don't Lie
+link: https://open.spotify.com/track/1cvU2frgp7K7H6qLAiI27Q
+album: 50 Pop Sensations
+artist: Oxford Out Of The Blue
+name: Hips Don't Lie
+link: https://open.spotify.com/track/5GQh2La8CaFMJNROHaByjm
+album: Soul Sisters
+artist: Latinos Lindos
+name: My Hips Don't Lie
+link: https://open.spotify.com/track/4KI9VvzplUNZDDRT4lY1Rl
+album: Latin Dance Party Music
+artist: Reggaeton Niños
+name: Kids Don't Lie (Hips Don't Lie)
+link: https://open.spotify.com/track/6xyh310ZKNAUir0LaSlBLp
+album: Ninos Vol. 2
+artist: Fitol Cpu
+name: Those Hips Dont Lie Exagggerateion
+link: https://open.spotify.com/track/788bx6WDHUG7ubQeF8zsCE
+album: Out Of The Grey Matter
+artist: MIT Ohms
+name: Sheila / Hips Don't Lie
+link: https://open.spotify.com/track/4XnHu4bO0hjZciyyC4O2k0
+album: South Asian A Cappella 2016
+artist: Suzan & Freek
+name: Hips Don't Lie
+link: https://open.spotify.com/track/5r9iKCKIuoZpPtmnQCo2Aj
+album: Glass House Sessions
+artist: Belly Dance Music Zone
+name: Hips Don't Lie
+link: https://open.spotify.com/track/4mU2EdWl618Sc8kMo0w9Em
+album: Belly Dance Music – Ethnic Music for Dancing, Pole Dance, Sexy Music, Exotic Arabic Dance, Arab Songs, Club Music, Egyptian Oriental Bellydance, Orient Music
+artist: Shakira
+name: Hips Don't Lie - Salsaton Version
+link: https://open.spotify.com/track/1STeWvSYBYUQqzL4gmpCCo
+album: Explosion Latina 3 100% Latino Bum Bum
+artist: Guadalupe y Rolson
+name: Hips Don't Lie - Salsaton
+link: https://open.spotify.com/track/56J8f5bsxW0my404epvNQA
+album: International Hots...Hits...Latinos
+artist: Enki Bello
+name: Hips Don't Lie
+link: https://open.spotify.com/track/5Pawm6JJ1gyWNW2kKCuljd
+album: Rocking On Harp
+artist: The Gym Allstars
+name: Hips Don't Lie
+link: https://open.spotify.com/track/5j5MMyQYgPUfkp1jBhosqn
+album: Music for Sports: Latin Fitness
+artist: Juice Music
+name: Hips Don't Lie
+link: https://open.spotify.com/track/2H8gDshmJbMxEdlFoqkWAq
+album: Pop Hits For Kids
+artist: Alloccas Kids Choir
+name: Hips Don't Lie
+link: https://open.spotify.com/track/4RJ7hBuwmjjtg55NKaPTe7
+album: Waka Waka E Molti Altri
+---------------
+movie-this
+title: Mr. Nobody
+release year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes rating: unknown
+country: Belgium, Germany, Canada, France, USA, UK
+language: English, Mohawk
+plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
