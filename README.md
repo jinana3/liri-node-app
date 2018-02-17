@@ -3,17 +3,17 @@ Bootcamp Homework 8
 
 ### Author:
 
-	Jina Li
+Jina Li
 
 ### What the project does?
 
-	Securely run node command line prompts. 
-	Get tweets from user [JinaYiming] (https://twitter.com/JinaYiming), get Spotify music, and get Movie information
+Securely run node command line prompts. 
+Get tweets from user [JinaYiming](https://twitter.com/JinaYiming), get Spotify music, and get Movie information
 
 ### How users can get started with the project?
 
-	After forking, make sure to npm install
-	Also ensure you have your own Spotify and Twitter API keys and secrets. Set up your `.env` file like so:
+After forking, make sure to npm install
+Also ensure you have your own Spotify and Twitter API keys and secrets. Set up your `.env` file like so:
 
 
 		# Spotify API keys
@@ -32,6 +32,6 @@ Bootcamp Homework 8
 
 ### Where users can get help with your project?
 
-	Please email me at jinali.berkeley@gmail.com.
+Please email me at jinali.berkeley@gmail.com.
 
-	Also visit https://www.npmjs.com/ for info on API packages used
+Also visit https://www.npmjs.com/ for info on API packages used
